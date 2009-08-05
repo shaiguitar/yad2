@@ -67,14 +67,19 @@ require 'sinatra'
       
 
 get "/" do
+  "try /yad2 , or /yad2.rss "
+end
+
+get "/yad2" do
   ApartmentSearch.new.load_apartments
   @apartments = ApartmentSearch.all_apartments
   haml :list
 end
 
-get "/rss" do
+get "/yad2.rss" do
   ApartmentSearch.new.load_apartments
   @apartments = ApartmentSearch.all_apartments
   header 'Content-Type' => 'text/xml; charset=windows-1255'
   builder :rss
 end
+
