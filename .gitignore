@@ -1,4 +1,4 @@
 *~
 .*.sw?
 config.yml
-mech.log
+*.log
