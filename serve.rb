@@ -35,6 +35,9 @@ require 'sinatra'
           a = Apartment.new(address,price,room_count,entry_date,floor,link) 
           
           @@all_apartments << a
+          
+        rescue => e 
+          puts "an error (#{e}) occured on #{ApartmentSearch.url}"
         end
     end
     

@@ -3925,3 +3925,76 @@ D, [2009-08-05T18:45:11.774686 #12394] DEBUG -- : saved cookie: PHPSESSID=25f039
 D, [2009-08-05T18:45:11.775545 #12394] DEBUG -- : saved cookie: CLIENT_WIDTH=deleted
 D, [2009-08-05T18:45:11.776670 #12394] DEBUG -- : saved cookie: MAIN_WIDTH=deleted
 I, [2009-08-05T18:45:11.777353 #12394]  INFO -- : status: 200
+I, [2009-08-05T19:05:37.189579 #12394]  INFO -- : Net::HTTP::Get: /Nadlan/rent.php?AreaID=22&SubAreaID=0&HomeTypeID=&fromRooms=3&untilRooms=4&FromFloor=&Floor=3&fromSquareMeter=70&untilSquareMeter=95&fromPrice=&untilPrice=2300&PriceType=1&fromSquareMeter=70&untilSquareMeter=95&Furniture=1&Parking=1&AirConditioner=1&FreeText=&ad_sr=1
+D, [2009-08-05T19:05:37.190137 #12394] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2009-08-05T19:05:37.190216 #12394] DEBUG -- : request-header: connection => keep-alive
+D, [2009-08-05T19:05:37.190281 #12394] DEBUG -- : request-header: accept => */*
+D, [2009-08-05T19:05:37.190345 #12394] DEBUG -- : request-header: accept-encoding => gzip,identity
+D, [2009-08-05T19:05:37.190410 #12394] DEBUG -- : request-header: user-agent => WWW-Mechanize/0.9.0 (http://rubyforge.org/projects/mechanize/)
+D, [2009-08-05T19:05:37.190475 #12394] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+D, [2009-08-05T19:05:37.190538 #12394] DEBUG -- : request-header: host => www.yad2.co.il
+D, [2009-08-05T19:05:37.190601 #12394] DEBUG -- : request-header: keep-alive => 300
+D, [2009-08-05T19:05:37.276962 #12394] DEBUG -- : Read 10 bytes
+D, [2009-08-05T19:05:37.277105 #12394] DEBUG -- : Read 584 bytes
+D, [2009-08-05T19:05:37.277582 #12394] DEBUG -- : Read 960 bytes
+D, [2009-08-05T19:05:37.281027 #12394] DEBUG -- : Read 1984 bytes
+D, [2009-08-05T19:05:37.281475 #12394] DEBUG -- : Read 2360 bytes
+D, [2009-08-05T19:05:37.301979 #12394] DEBUG -- : Read 3384 bytes
+D, [2009-08-05T19:05:37.302957 #12394] DEBUG -- : Read 3760 bytes
+D, [2009-08-05T19:05:37.306119 #12394] DEBUG -- : Read 4784 bytes
+D, [2009-08-05T19:05:37.306567 #12394] DEBUG -- : Read 5160 bytes
+D, [2009-08-05T19:05:37.310631 #12394] DEBUG -- : Read 6184 bytes
+D, [2009-08-05T19:05:37.311125 #12394] DEBUG -- : Read 6560 bytes
+D, [2009-08-05T19:05:37.326654 #12394] DEBUG -- : Read 7584 bytes
+D, [2009-08-05T19:05:37.327132 #12394] DEBUG -- : Read 7960 bytes
+D, [2009-08-05T19:05:37.332513 #12394] DEBUG -- : Read 8984 bytes
+D, [2009-08-05T19:05:37.334113 #12394] DEBUG -- : Read 9360 bytes
+D, [2009-08-05T19:05:37.335210 #12394] DEBUG -- : Read 10384 bytes
+D, [2009-08-05T19:05:37.335701 #12394] DEBUG -- : Read 10760 bytes
+D, [2009-08-05T19:05:37.347828 #12394] DEBUG -- : Read 11784 bytes
+D, [2009-08-05T19:05:37.349634 #12394] DEBUG -- : Read 12160 bytes
+D, [2009-08-05T19:05:37.353480 #12394] DEBUG -- : Read 13184 bytes
+D, [2009-08-05T19:05:37.353968 #12394] DEBUG -- : Read 13560 bytes
+D, [2009-08-05T19:05:37.356587 #12394] DEBUG -- : Read 14584 bytes
+D, [2009-08-05T19:05:37.357040 #12394] DEBUG -- : Read 14960 bytes
+D, [2009-08-05T19:05:37.360877 #12394] DEBUG -- : Read 15984 bytes
+D, [2009-08-05T19:05:37.361379 #12394] DEBUG -- : Read 16360 bytes
+D, [2009-08-05T19:05:37.366104 #12394] DEBUG -- : Read 17384 bytes
+D, [2009-08-05T19:05:37.366721 #12394] DEBUG -- : Read 17760 bytes
+D, [2009-08-05T19:05:37.369712 #12394] DEBUG -- : Read 18784 bytes
+D, [2009-08-05T19:05:37.370204 #12394] DEBUG -- : Read 19160 bytes
+D, [2009-08-05T19:05:37.374342 #12394] DEBUG -- : Read 20184 bytes
+D, [2009-08-05T19:05:37.374838 #12394] DEBUG -- : Read 20560 bytes
+D, [2009-08-05T19:05:37.379048 #12394] DEBUG -- : Read 21584 bytes
+D, [2009-08-05T19:05:37.379512 #12394] DEBUG -- : Read 21960 bytes
+D, [2009-08-05T19:05:37.383168 #12394] DEBUG -- : Read 22984 bytes
+D, [2009-08-05T19:05:37.383658 #12394] DEBUG -- : Read 23360 bytes
+D, [2009-08-05T19:05:37.388766 #12394] DEBUG -- : Read 24384 bytes
+D, [2009-08-05T19:05:37.389303 #12394] DEBUG -- : Read 24586 bytes
+D, [2009-08-05T19:05:37.389423 #12394] DEBUG -- : Read 24752 bytes
+D, [2009-08-05T19:05:37.391960 #12394] DEBUG -- : Read 25776 bytes
+D, [2009-08-05T19:05:37.392463 #12394] DEBUG -- : Read 26152 bytes
+D, [2009-08-05T19:05:37.395987 #12394] DEBUG -- : Read 27176 bytes
+D, [2009-08-05T19:05:37.396441 #12394] DEBUG -- : Read 27552 bytes
+D, [2009-08-05T19:05:37.400296 #12394] DEBUG -- : Read 28576 bytes
+D, [2009-08-05T19:05:37.400790 #12394] DEBUG -- : Read 28952 bytes
+D, [2009-08-05T19:05:37.404653 #12394] DEBUG -- : Read 29976 bytes
+D, [2009-08-05T19:05:37.405097 #12394] DEBUG -- : Read 30352 bytes
+D, [2009-08-05T19:05:37.409176 #12394] DEBUG -- : Read 31376 bytes
+D, [2009-08-05T19:05:37.409649 #12394] DEBUG -- : Read 31752 bytes
+D, [2009-08-05T19:05:37.410798 #12394] DEBUG -- : Read 32371 bytes
+D, [2009-08-05T19:05:37.410940 #12394] DEBUG -- : response-header: cache-control => no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+D, [2009-08-05T19:05:37.411009 #12394] DEBUG -- : response-header: connection => keep-alive
+D, [2009-08-05T19:05:37.411074 #12394] DEBUG -- : response-header: expires => Thu, 19 Nov 1981 08:52:00 GMT
+D, [2009-08-05T19:05:37.411138 #12394] DEBUG -- : response-header: x-powered-by => PHP/5.2.6
+D, [2009-08-05T19:05:37.411201 #12394] DEBUG -- : response-header: content-type => text/html
+D, [2009-08-05T19:05:37.411265 #12394] DEBUG -- : response-header: date => Wed, 05 Aug 2009 16:06:36 GMT
+D, [2009-08-05T19:05:37.411329 #12394] DEBUG -- : response-header: content-encoding => gzip
+D, [2009-08-05T19:05:37.411391 #12394] DEBUG -- : response-header: server => nginx/0.6.34
+D, [2009-08-05T19:05:37.411455 #12394] DEBUG -- : response-header: set-cookie => PHPSESSID=72101c86c5e68469368e72daebd51962; path=/
+D, [2009-08-05T19:05:37.411519 #12394] DEBUG -- : response-header: keep-alive => timeout=20
+D, [2009-08-05T19:05:37.411582 #12394] DEBUG -- : response-header: pragma => no-cache
+D, [2009-08-05T19:05:37.411645 #12394] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2009-08-05T19:05:37.411723 #12394] DEBUG -- : gunzip body
+D, [2009-08-05T19:05:37.415747 #12394] DEBUG -- : saved cookie: PHPSESSID=72101c86c5e68469368e72daebd51962
+I, [2009-08-05T19:05:37.415889 #12394]  INFO -- : status: 200
