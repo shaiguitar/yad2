@@ -36,9 +36,10 @@ require 'sinatra'
           
           @@all_apartments << a
           
-        rescue => e 
-          puts "an error (#{e}) occured on #{ApartmentSearch.url}"
         end
+        
+        rescue => e
+        puts "an error (#{e}) occured on #{ApartmentSearch.url}"
     end
     
   end
