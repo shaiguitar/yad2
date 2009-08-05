@@ -39,7 +39,8 @@ require 'sinatra'
         end
         
         rescue => e
-        puts "an error (#{e}) occured on #{ApartmentSearch.url}"
+        agent.log.warn "an error (#{e}) occured on #{ApartmentSearch.url}"
+        raise e
     end
     
   end
