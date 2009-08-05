@@ -80,7 +80,7 @@ end
 get "/yad2.rss" do
   ApartmentSearch.new.load_apartments
   @apartments = ApartmentSearch.all_apartments
-  header 'Content-Type' => 'text/xml; charset=windows-1255'
+  headers 'Content-Type' => 'text/xml; charset=windows-1255'
   builder :rss
 end
 
